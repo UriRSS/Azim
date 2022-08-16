@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Azimu/1.0.0": {
+      "Private/1.0.0": {
         "runtime": {
-          "Azimu.dll": {}
+          "Private.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Azimu/1.0.0": {
+    "Private/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
